@@ -38,5 +38,5 @@ The system uses a cleaned CSV file `novels_cleaned.csv` inside the `data/` folde
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/novel-recommendation-system.git
+git clone https://github.com/sakethkumardevatha/novel-recommendation-system.git
 cd novel-recommendation-system
